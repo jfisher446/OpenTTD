@@ -52,7 +52,7 @@ set_default() {
 	enable_desync_debug="0"
 	enable_profiling="0"
 	enable_lto="0"
-	enable_dedicated="0"
+	enable_dedicated="1"
 	enable_network="1"
 	enable_static="1"
 	enable_translator="0"
